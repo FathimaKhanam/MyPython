@@ -1,0 +1,15 @@
+Write a Program which takes 3 inputs from users and check if the total sum is an even number or not
+
+# Taking inputs from the user
+num1 = int(input("Enter first number: "))
+num2 = int(input("Enter second number: "))
+num3 = int(input("Enter third number: "))
+
+# Calculating the sum
+total_sum = num1 + num2 + num3
+
+# Checking if the sum is even
+if total_sum % 2 == 0:
+    print("The sum is even.")
+else:
+    print("The sum is odd.")
