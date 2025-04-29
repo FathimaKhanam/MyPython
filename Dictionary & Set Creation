@@ -1,0 +1,17 @@
+ex_set1 = {1,2,3,4,5,6,7,8,9,10}
+ex_set2 = {"jan","feb","march","april","may","june","july","august","september","October","November","December"}
+
+print(ex_set1,ex_set2)
+
+ex_dict1= {1 : 100, 
+           2 : 200, 
+           3 : 300,
+           4 : 400,
+           5 : 500}
+print(ex_dict1)
+
+ex_dict2= {"Phil"	: "Google",
+            "Claire" : "Yahoo",
+            "Gloria" : "AOL",
+            "Jay" : "Live"}
+print(ex_dict2)
