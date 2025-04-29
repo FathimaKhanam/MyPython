@@ -1,0 +1,19 @@
+a = 50
+b = 75
+c = 100.5
+d = 99.999
+e = 0.00001
+f = 3.142365
+g = 5+8j
+h = 0.5-25j
+i = 25+45j
+
+print(type( a )) 
+print(type( b )) 
+print(type( c )) 
+print(type( d )) 
+print(type( e )) 
+print(type( f )) 
+print(type( g )) 
+print(type( h )) 
+print(type( i )) 
